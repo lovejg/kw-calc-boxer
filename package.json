@@ -1,6 +1,6 @@
 {
-  "name": "calcbox",
-  "version": "0.0.1",
+  "name": "kw-calc-boxer",
+  "version": "1.0.1",
   "description": "",
   "main": "main.js",
   "scripts": {
